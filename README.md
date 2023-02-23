@@ -7,3 +7,4 @@ PROJE HAKKINDA TEKNİK BİLGİLER: Proje Visual Studio .Net 6 ASP.NET MVC CORE i
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/120444709/220971154-f6c9fab6-4034-403d-a1da-29b79b4e0120.png">
 <img width="959" alt="2" src="https://user-images.githubusercontent.com/120444709/220971161-ab216ebe-5edb-4a77-8d84-c2e1913c5a62.png">
 <img width="953" alt="3" src="https://user-images.githubusercontent.com/120444709/220971164-02af1aea-cbd0-4f2e-98c4-fa758f541d69.png">
+![220090515-d23212b8-5ef0-4c1d-8f2b-c318c28381e7](https://user-images.githubusercontent.com/120444709/220973878-70870b12-68fb-4061-a591-e2fd29d786ad.png)
